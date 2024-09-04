@@ -1,0 +1,161 @@
+body{
+    font-family: jost;
+      background: linear-gradient(to right, #f46b457e, #eea9498d); 
+}
+
+/* nav area */
+
+.nav{
+    margin: auto;
+}
+
+#nav_header{
+    background-color: #151B40;
+  height: 100px;
+ padding-top: 20px ;
+}
+
+.btn{
+    background-color: #354C96;
+    font-size: 18px;
+    color: white;
+}
+
+.btn_box{
+    background-color: #354C96;
+    font-size: 25px;
+    color: white;
+    height: 70px;
+    width: 300px;
+  margin: 40px 80px;
+ border-radius: 8px;
+  text-align: left;
+  padding: 20px;
+  
+}
+
+/* 
+ .work_img{
+    width: 350px;
+ margin-top: 20px;
+
+ } */
+/* section...1 */
+
+.container_section{
+  background: linear-gradient(to right, #c2e59c, #64b3f4); 
+}
+
+
+#big_img{
+  margin: 50px;
+  width: 600px;
+  height: 600px;
+  border-radius: 8px;
+  margin-top: 250px;
+   
+}
+
+
+ .main_heading{
+ margin-left: 20px;
+ }
+ 
+.titel_box{
+  width: 700px;
+ margin-top: 100px;
+ margin-bottom: 50px;
+}
+
+.driscption{
+  font-weight: 500;
+
+}
+
+#cover_img{
+  width: 600px;
+  height: 200px;
+   margin-top: 20px;
+  margin-bottom: 20px; 
+  margin-left: 80px;
+ }
+#work_img{
+  width: 400px;
+
+}
+
+/* section..2 */
+.web_img{
+  width: 500px;
+  margin-top: 50px;
+  margin-right: 150px;
+  transition: 1s;
+}
+
+
+.project_section{
+  background-color: #151B40;
+  margin-top: 100px;
+  padding: 30px ;
+
+}
+
+
+/* section...3 */
+.project_img{
+  width: 370px;
+margin-top: 50px;
+margin-left: 30px;
+}
+
+#img{
+width: 650px;
+margin-left: 100px;
+
+margin-top: 100px;
+}
+
+#small_img{
+  margin-top: 30px;
+}
+
+
+/* section..4 */
+
+.mark{
+  margin-top: 100px;
+}
+.small_img{
+width: 200px;
+margin: 5px;
+}
+
+.list{
+  color: blue;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 62px;
+  margin-left: 200px;
+  
+}
+
+
+/* section...5 */
+.driscption{
+  font-size: 20px;
+  font-weight: 300;
+  color: blue;
+  margin-left: 100px;
+}
+
+.container_one{
+  margin-top: 100px;
+  background-color: #eba5f6b1;
+  margin-bottom: 100px;
+  padding: 40px;
+  transition: 1s;
+}
+
+.container_one:hover{
+background-color: #6e1e7a69;;
+}
